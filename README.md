@@ -25,7 +25,7 @@ Spotify-Genre-Model/
 ## Dataset
 - The dataset is sourced from **Spotify** and contains features such as:
   - **Danceability, Energy, Acousticness, Tempo, Speechiness, Valence, etc.**
-- Download the dataset [here](https://docs.google.com/spreadsheets/d/1fNH_LbSSb44n1u_QPHbUBgyyKCMDBAKBiFqPOL1WuLQ/edit?usp=sharing).
+- The dataset is stored in the `dataset/spotify_dataset.xlsx` file within the project directory.
 
 ## Installation & Setup
 ### Prerequisites
